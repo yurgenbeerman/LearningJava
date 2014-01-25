@@ -28,7 +28,7 @@ public class Hello {
         practice1Fibonacci();
         System.out.println("\n------- practice1Sort1() ---------");
         practice1Sort1();
-        System.out.println("\n------- practice1Sort2() ---------");
+        System.out.println("\n------- practice1Sort2() ===---------");
         practice1Sort2();
         System.out.println("\n------- practice1Sort3() ---------");
         practice1Sort3();
