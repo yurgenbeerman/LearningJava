@@ -39,7 +39,7 @@ public class Hello {
         practice1Sort5();
 
         System.out.println("\n------- practice2() ---------");
-        System.out.println("\n------- practice2BinarySearch() ---------");
+        System.out.println("\n------- practice2BinarySearch() ==---------");
         practice2BinarySearch();
     }
 
