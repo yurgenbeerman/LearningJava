@@ -3,7 +3,8 @@ package package1;
 import static java.util.Arrays.copyOf;
 
 public class Hello {
-    static int[] iArray, iArray2;
+    static int[] iArray;
+    static int[] iArray2;
     static int iExchanges = 0;
     static int iTE = 0; // Total Exchanges = Total swaps
     static long lStartTime = 0;
@@ -28,7 +29,7 @@ public class Hello {
         practice1Fibonacci();
         System.out.println("\n------- practice1Sort1() ---------");
         practice1Sort1();
-        System.out.println("\n------- practice1Sort2() ===---------");
+        System.out.println("\n------- practice1Sort2() ---------");
         practice1Sort2();
         System.out.println("\n------- practice1Sort3() ---------");
         practice1Sort3();
@@ -199,7 +200,7 @@ public class Hello {
         System.out.println("\nPRACTICE 1, TASK 2: sort an array of numbers");
 
         //the initial array
-        int[] iArray = {3, 7, 1, 99, 57, 43, 34, 25, 36, 2, 9, 99, 22, 75, 83, 95, 84, 52, 7, 42, 36, 7, 1, 99, 57, 43, 34, 25, 36, 2, 9, 99, 22, 75, 83, 95, 84, 52, 7, 42, 36, 7, 1, 99, 57, 43, 34, 25, 36, 2, 9, 99, 22, 75, 83, 95, 84, 52, 7, 42, 36, 7, 1, 99, 57, 43, 34, 25, 36, 2, 9, 99, 22, 75, 83, 95, 84, 52, 7, 42, 36};
+        iArray = new int[] {3, 7, 1, 99, 57, 43, 34, 25, 36, 2, 9, 99, 22, 75, 83, 95, 84, 52, 7, 42, 36, 7, 1, 99, 57, 43, 34, 25, 36, 2, 9, 99, 22, 75, 83, 95, 84, 52, 7, 42, 36, 7, 1, 99, 57, 43, 34, 25, 36, 2, 9, 99, 22, 75, 83, 95, 84, 52, 7, 42, 36, 7, 1, 99, 57, 43, 34, 25, 36, 2, 9, 99, 22, 75, 83, 95, 84, 52, 7, 42, 36};
         System.out.println("\n\nThe initial array iArray is:");
         for (int elem : iArray) System.out.print(elem + ", ");
 
@@ -253,7 +254,7 @@ public class Hello {
     }
 
     static void practice1Sort2() {
-        for (int j=iArray.length-1; j>=0; j--) {iArray[j] = iArray2[j];}
+        for (int j=iArray2.length-1; j>=0; j--) {iArray[j] = iArray2[j];}
         System.out.println("\nThe initial array is:");
         for (int elem : iArray) System.out.print(elem + ", ");
         iTE = 0;
