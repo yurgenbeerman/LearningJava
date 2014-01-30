@@ -2,15 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c7393b3-8941-482d-82e9-49494d69bc0c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/observer/WeatherStation.java" />
-      <change type="DELETED" beforePath="E:\java_projects(Yura)\LearningJava\OOPatterns\Strategy\Behaviors\FlyBehavior.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\java_projects(Yura)\LearningJava\OOPatterns\Strategy\Behaviors\FlyBehavior.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\java_projects(Yura)\LearningJava\OOPatterns\Strategy\Behaviors\FlyNoWay.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\java_projects(Yura)\LearningJava\OOPatterns\Strategy\Behaviors\FlyNoWay.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\java_projects(Yura)\LearningJava\OOPatterns\Strategy\Behaviors\FlyWithWings.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\java_projects(Yura)\LearningJava\OOPatterns\Strategy\Behaviors\FlyWithWings.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\java_projects(Yura)\LearningJava\OOPatterns\hfjavafinalsamples.zip" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPatterns2_code_samples/HeadFirstDesignPatterns_code102507.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPatterns2_code_samples/src/headfirst/observer/weather/CurrentConditionsDisplay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPatterns2_code_samples/src/headfirst/observer/weatherobservable/CurrentConditionsDisplay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPatterns2_code_samples/src/headfirst/strategy/DecoyDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPatterns2_code_samples/src/headfirst/observer/weather/DisplayElement.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPatterns2_code_samples/src/headfirst/observer/weatherobservable/DisplayElement.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPatterns2_code_samples/src/headfirst/strategy/Duck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPatterns2_code_samples/src/headfirst/strategy/FakeQuack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPatterns2_code_samples/src/headfirst/strategy/FlyBehavior.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPatterns2_code_samples/src/headfirst/strategy/FlyNoWay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPatterns2_code_samples/src/headfirst/strategy/FlyRocketPowered.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPatterns2_code_samples/src/headfirst/strategy/FlyWithWings.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPatterns2_code_samples/src/headfirst/observer/weather/ForecastDisplay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPatterns2_code_samples/src/headfirst/observer/weatherobservable/ForecastDisplay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPatterns2_code_samples/src/headfirst/observer/weather/HeatIndexDisplay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPatterns2_code_samples/src/headfirst/observer/weatherobservable/HeatIndexDisplay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPatterns2_code_samples/src/headfirst/strategy/MallardDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPatterns2_code_samples/src/headfirst/strategy/MiniDuckSimulator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPatterns2_code_samples/src/headfirst/strategy/MiniDuckSimulator1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPatterns2_code_samples/src/headfirst/strategy/ModelDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPatterns2_code_samples/src/headfirst/strategy/MuteQuack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPatterns2_code_samples/src/headfirst/observer/weather/Observer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPatterns2_code_samples/src/headfirst/strategy/Quack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPatterns2_code_samples/src/headfirst/strategy/QuackBehavior.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPatterns2_code_samples/src/headfirst/strategy/RedHeadDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPatterns2_code_samples/src/headfirst/strategy/RubberDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPatterns2_code_samples/src/headfirst/strategy/Squeak.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPatterns2_code_samples/src/headfirst/observer/weather/StatisticsDisplay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPatterns2_code_samples/src/headfirst/observer/weatherobservable/StatisticsDisplay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/observer/StatisticsDisplay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPatterns2_code_samples/src/headfirst/observer/weather/Subject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPatterns2_code_samples/src/headfirst/observer/swing/SwingObserverExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPatterns2_code_samples/src/headfirst/observer/weather/WeatherData.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPatterns2_code_samples/src/headfirst/observer/weatherobservable/WeatherData.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPatterns2_code_samples/src/headfirst/observer/weather/WeatherStation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPatterns2_code_samples/src/headfirst/observer/weatherobservable/WeatherStation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPatterns2_code_samples/src/headfirst/observer/weather/WeatherStationHeatIndex.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPatterns2_code_samples/src/headfirst/observer/weatherobservable/WeatherStationHeatIndex.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaForTesters/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../JavaForTesters/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -90,7 +119,7 @@
       <file leaf-file-name="StatisticsDisplay.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/observer/StatisticsDisplay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="60" selection-start="789" selection-end="789" vertical-scroll-proportion="0.8235294" vertical-offset="0" max-vertical-offset="748">
+            <state line="16" column="37" selection-start="533" selection-end="533" vertical-scroll-proportion="0.47058824" vertical-offset="0" max-vertical-offset="748">
               <folding />
             </state>
           </provider>
@@ -646,7 +675,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -664,7 +693,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.074773416" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22960725" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22960725" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3216" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1077,7 +1106,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/observer/StatisticsDisplay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="60" selection-start="789" selection-end="789" vertical-scroll-proportion="0.8235294" vertical-offset="0" max-vertical-offset="748">
+        <state line="16" column="37" selection-start="533" selection-end="533" vertical-scroll-proportion="0.47058824" vertical-offset="0" max-vertical-offset="748">
           <folding />
         </state>
       </provider>

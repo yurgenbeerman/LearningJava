@@ -2,15 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fe835b3-1b71-47aa-bc63-330ff2950515" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/src/main/java/observer/WeatherStation.java" />
-      <change type="DELETED" beforePath="E:\java_projects(Yura)\LearningJava\OOPatterns\Strategy\Behaviors\FlyBehavior.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\java_projects(Yura)\LearningJava\OOPatterns\Strategy\Behaviors\FlyBehavior.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\java_projects(Yura)\LearningJava\OOPatterns\Strategy\Behaviors\FlyNoWay.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\java_projects(Yura)\LearningJava\OOPatterns\Strategy\Behaviors\FlyNoWay.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\java_projects(Yura)\LearningJava\OOPatterns\Strategy\Behaviors\FlyWithWings.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\java_projects(Yura)\LearningJava\OOPatterns\Strategy\Behaviors\FlyWithWings.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\java_projects(Yura)\LearningJava\OOPatterns\hfjavafinalsamples.zip" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOPatterns/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../OOPatterns/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/HeadFirstDesignPatterns_code102507.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/weather/CurrentConditionsDisplay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/weatherobservable/CurrentConditionsDisplay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/strategy/DecoyDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/weather/DisplayElement.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/weatherobservable/DisplayElement.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/strategy/Duck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/strategy/FakeQuack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/strategy/FlyBehavior.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/strategy/FlyNoWay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/strategy/FlyRocketPowered.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/strategy/FlyWithWings.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/weather/ForecastDisplay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/weatherobservable/ForecastDisplay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/weather/HeatIndexDisplay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/weatherobservable/HeatIndexDisplay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/strategy/MallardDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/strategy/MiniDuckSimulator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/strategy/MiniDuckSimulator1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/strategy/ModelDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/strategy/MuteQuack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/weather/Observer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/strategy/Quack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/strategy/QuackBehavior.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/strategy/RedHeadDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/strategy/RubberDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/strategy/Squeak.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/weather/StatisticsDisplay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/weatherobservable/StatisticsDisplay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/src/main/java/observer/StatisticsDisplay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/weather/Subject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/swing/SwingObserverExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/weather/WeatherData.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/weatherobservable/WeatherData.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/weather/WeatherStation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/weatherobservable/WeatherStation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/weather/WeatherStationHeatIndex.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/weatherobservable/WeatherStationHeatIndex.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOPatterns/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOPatterns/.idea/workspace.xml" />
     </list>
@@ -97,7 +126,7 @@
       <file leaf-file-name="workspace.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="741" selection-end="741" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="10744">
+            <state line="1" column="0" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="10540">
               <folding />
             </state>
           </provider>
@@ -464,7 +493,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -609,7 +638,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="741" selection-end="741" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="10744">
+        <state line="1" column="0" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="10540">
           <folding />
         </state>
       </provider>
