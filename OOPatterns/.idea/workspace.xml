@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c7393b3-8941-482d-82e9-49494d69bc0c" name="Default" comment="" />
+    <list default="true" id="9c7393b3-8941-482d-82e9-49494d69bc0c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/observer/WeatherStation.java" />
+      <change type="DELETED" beforePath="E:\java_projects(Yura)\LearningJava\OOPatterns\Strategy\Behaviors\FlyBehavior.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\java_projects(Yura)\LearningJava\OOPatterns\Strategy\Behaviors\FlyBehavior.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\java_projects(Yura)\LearningJava\OOPatterns\Strategy\Behaviors\FlyNoWay.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\java_projects(Yura)\LearningJava\OOPatterns\Strategy\Behaviors\FlyNoWay.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\java_projects(Yura)\LearningJava\OOPatterns\Strategy\Behaviors\FlyWithWings.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\java_projects(Yura)\LearningJava\OOPatterns\Strategy\Behaviors\FlyWithWings.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\java_projects(Yura)\LearningJava\OOPatterns\hfjavafinalsamples.zip" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaForTesters/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../JavaForTesters/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="OOPatterns.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -64,69 +76,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ModelDuck.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/strategy/ducks/ModelDuck.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="40" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0" vertical-offset="65" max-vertical-offset="442">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FlyRocketPowered.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/strategy/behaviors/FlyRocketPowered.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="272">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FlyNoWay.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/strategy/behaviors/FlyNoWay.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="30" selection-start="121" selection-end="121" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="204">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MuteQuack.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/strategy/behaviors/MuteQuack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="44" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="272">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Squeak.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/strategy/behaviors/Squeak.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="19" selection-start="82" selection-end="88" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="272">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Quack.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/strategy/behaviors/Quack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="32" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="272">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Duck.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/strategy/ducks/Duck.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="40" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0" vertical-offset="49" max-vertical-offset="629">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ForecastDisplay.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/observer/ForecastDisplay.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -138,10 +87,46 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DisplayElement.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="StatisticsDisplay.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/observer/StatisticsDisplay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="60" selection-start="789" selection-end="789" vertical-scroll-proportion="0.8235294" vertical-offset="0" max-vertical-offset="748">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DisplayElement.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/observer/DisplayElement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="14" selection-start="125" selection-end="125" vertical-scroll-proportion="0.23448277" vertical-offset="0" max-vertical-offset="580">
+            <state line="0" column="8" selection-start="8" selection-end="16" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Subject.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/observer/Subject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="16" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Observer.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/observer/Observer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="23" selection-start="110" selection-end="153" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FlyBehavior.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/strategy/behaviors/FlyBehavior.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="16" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="170">
               <folding />
             </state>
           </provider>
@@ -150,12 +135,48 @@
       <file leaf-file-name="WeatherData.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/observer/WeatherData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="42" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+            <state line="12" column="0" selection-start="321" selection-end="407" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1377">
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
-                <element signature="e#287#288#0" expanded="true" />
+                <element signature="e#443#444#0" expanded="true" />
+                <element signature="e#477#478#0" expanded="true" />
+                <element signature="e#530#531#0" expanded="true" />
+                <element signature="e#576#577#0" expanded="true" />
+                <element signature="e#610#611#0" expanded="true" />
+                <element signature="e#641#642#0" expanded="true" />
+                <element signature="e#688#689#0" expanded="true" />
+                <element signature="e#728#729#0" expanded="true" />
+                <element signature="e#762#763#0" expanded="true" />
+                <element signature="e#793#794#0" expanded="true" />
+                <element signature="e#840#841#0" expanded="true" />
+                <element signature="e#880#881#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MiniDuckSimulator.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/strategy/ducks/MiniDuckSimulator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="55" selection-start="907" selection-end="907" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CurrentConditionDisplay.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/observer/CurrentConditionDisplay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="54" selection-start="803" selection-end="803" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WeatherStation.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/observer/WeatherStation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="10" selection-start="400" selection-end="400" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -166,6 +187,9 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -186,8 +210,14 @@
         <option value="$PROJECT_DIR$/src/main/java/strategy/ducks/ModelDuck.java" />
         <option value="$PROJECT_DIR$/src/main/java/strategy/ducks/MallardDuck.java" />
         <option value="$PROJECT_DIR$/src/main/java/observer/ForecastDisplay.java" />
+        <option value="$PROJECT_DIR$/src/main/java/observer/Subjectt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/observer/Subject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/observer/Observer.java" />
         <option value="$PROJECT_DIR$/src/main/java/observer/DisplayElement.java" />
         <option value="$PROJECT_DIR$/src/main/java/observer/WeatherData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/observer/CurrentConditionDisplay.java" />
+        <option value="$PROJECT_DIR$/src/main/java/observer/WeatherStation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/observer/StatisticsDisplay.java" />
       </list>
     </option>
   </component>
@@ -225,7 +255,7 @@
     <option name="width" value="1382" />
     <option name="height" value="754" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -403,6 +433,11 @@
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
     <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="SearchEverywhereHistory" value="" />
   </component>
   <component name="RunManager" selected="Application.MiniDuckSimulator">
     <configuration default="false" name="MiniDuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -590,11 +625,28 @@
       <created>1390592115398</created>
       <updated>1390592115398</updated>
     </task>
+    <task id="LOCAL-00001" summary="new pattern code&#10;">
+      <created>1391063194042</created>
+      <updated>1391063194042</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new pattern code&#10;">
+      <created>1391063212635</created>
+      <updated>1391063212635</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new pattern code&#10;">
+      <created>1391063228989</created>
+      <updated>1391063228989</updated>
+    </task>
+    <task id="LOCAL-00004" summary="new pattern code&#10;">
+      <created>1391063241146</created>
+      <updated>1391063241146</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="1" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -606,6 +658,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.074773416" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -616,7 +669,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -657,6 +709,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="new pattern code&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="new pattern code&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -666,27 +720,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/strategy/ducks/ModelDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="40" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/strategy/behaviors/FlyRocketPowered.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="272">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/strategy/behaviors/FlyNoWay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="30" selection-start="121" selection-end="121" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="204">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/strategy/behaviors/MuteQuack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="44" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="272">
@@ -887,39 +920,9 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Strategy/Behaviors/FlyBehavior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="599" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strategy/Behaviors/FlyNoWay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="599" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strategy/Behaviors/FlyWithWings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="599" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strategy/Ducks/Duck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="599" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strategy/Ducks/MallardDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="19" selection-start="34" selection-end="34" vertical-scroll-proportion="0.028380634" vertical-offset="0" max-vertical-offset="599" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/strategy/behaviors/QuackBehavior.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="27" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="170" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/strategy/behaviors/FlyBehavior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="16" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="170" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/strategy/behaviors/FlyNoWay.java">
@@ -966,7 +969,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/strategy/ducks/Duck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="40" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="629">
+        <state line="9" column="19" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0" vertical-offset="49" max-vertical-offset="629">
           <folding />
         </state>
       </provider>
@@ -974,13 +977,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/strategy/ducks/ModelDuck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="40" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0" vertical-offset="65" max-vertical-offset="442">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/strategy/ducks/MiniDuckSimulator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="55" selection-start="907" selection-end="907" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
           <folding />
         </state>
       </provider>
@@ -994,14 +990,79 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/strategy/behaviors/FlyBehavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="16" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="170">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/observer/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="23" selection-start="110" selection-end="153" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/observer/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="16" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/observer/DisplayElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="8" selection-start="8" selection-end="16" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOPatterns2_code_samples/src/headfirst/observer/weather/CurrentConditionsDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="7" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/observer/WeatherData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="42" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+        <state line="12" column="0" selection-start="321" selection-end="407" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1377">
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#576#577#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+            <element signature="e#728#729#0" expanded="true" />
+            <element signature="e#762#763#0" expanded="true" />
+            <element signature="e#793#794#0" expanded="true" />
+            <element signature="e#840#841#0" expanded="true" />
+            <element signature="e#880#881#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/strategy/ducks/MiniDuckSimulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="55" selection-start="907" selection-end="907" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/observer/CurrentConditionDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="54" selection-start="803" selection-end="803" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/observer/WeatherStation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="10" selection-start="400" selection-end="400" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1014,9 +1075,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/observer/DisplayElement.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/observer/StatisticsDisplay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="14" selection-start="125" selection-end="125" vertical-scroll-proportion="0.23448277" vertical-offset="0" max-vertical-offset="580">
+        <state line="28" column="60" selection-start="789" selection-end="789" vertical-scroll-proportion="0.8235294" vertical-offset="0" max-vertical-offset="748">
           <folding />
         </state>
       </provider>
