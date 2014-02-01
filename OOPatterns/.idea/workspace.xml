@@ -2,22 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c7393b3-8941-482d-82e9-49494d69bc0c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaForTesters/src/main/java/DealsProcessor/Deal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaForTesters/src/main/java/DealsProcessor/DealsProcessor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaForTesters/src/main/java/DealsProcessor/Party.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaForTesters/src/main/java/DealsProcessor/Product.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaForTesters/.idea/workspace.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaForTesters/target/classes/package1/Hello.class" afterPath="$PROJECT_DIR$/../JavaForTesters/target/classes/package1/Hello.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaForTesters/target/classes/package1/Operations.class" afterPath="$PROJECT_DIR$/../JavaForTesters/target/classes/package1/Operations.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/observer/CurrentConditionDisplay.java" afterPath="$PROJECT_DIR$/src/main/java/observer/CurrentConditionDisplay.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/observer/DisplayElement.java" afterPath="$PROJECT_DIR$/src/main/java/observer/DisplayElement.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/observer/ForecastDisplay.java" afterPath="$PROJECT_DIR$/src/main/java/observer/ForecastDisplay.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaForTesters/src/main/java/package1/Hello.java" afterPath="$PROJECT_DIR$/../JavaForTesters/src/main/java/package1/Hello.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaForTesters/src/main/java/package1/Operations.java" afterPath="$PROJECT_DIR$/../JavaForTesters/src/main/java/package1/Operations.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/observer/Subject.java" afterPath="$PROJECT_DIR$/src/main/java/observer/Subject.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/observer/WeatherData.java" afterPath="$PROJECT_DIR$/src/main/java/observer/WeatherData.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/observer/WeatherStation.java" afterPath="$PROJECT_DIR$/src/main/java/observer/WeatherStation.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaForTesters/src/main/java/DealsProcessor/Deal.java" afterPath="$PROJECT_DIR$/../JavaForTesters/src/main/java/DealsProcessor/Deal.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaForTesters/src/main/java/DealsProcessor/DealsProcessor.java" afterPath="$PROJECT_DIR$/../JavaForTesters/src/main/java/DealsProcessor/DealsProcessor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaForTesters/src/main/java/DealsProcessor/Party.java" afterPath="$PROJECT_DIR$/../JavaForTesters/src/main/java/DealsProcessor/Party.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaForTesters/src/main/java/DealsProcessor/Product.java" afterPath="$PROJECT_DIR$/../JavaForTesters/src/main/java/DealsProcessor/Product.java" />
     </list>
     <ignored path="OOPatterns.iws" />
     <ignored path=".idea/workspace.xml" />
