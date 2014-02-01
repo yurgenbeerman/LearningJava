@@ -9,9 +9,7 @@ public class WeatherStation {
 
         CurrentConditionDisplay currentConditionDisplay =
                 new CurrentConditionDisplay(weatherData);
-        //StatisticsDisplay -- upload files
-        //ForecastDisplay -- upload files
-        //StatisticsDisplay statisticsDisplay = new StatisticsDisplay(weatherData);
+        StatisticsDisplay statisticsDisplay = new StatisticsDisplay(weatherData);
         ForecastDisplay forecastDisplay = new ForecastDisplay(weatherData);
 
         weatherData.setMeasurements(80, 65, 30.4f);

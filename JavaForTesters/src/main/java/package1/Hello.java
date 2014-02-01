@@ -13,32 +13,33 @@ public class Hello {
 
     public static void main(String[] args) {
         //System.out.println("Привіт світе!");
-        System.out.println("HELLO man!");
-
-        System.out.println("\n------- typesDemo() ---------");
-        typesDemo();
-
-        System.out.println("\n------- operationsDemo() ---------");
-        operationsDemo();
-
-        System.out.println("\n------- controlStructuresDemo() ---------");
-        controlStructuresDemo();
-
-        System.out.println("\n------- practice1() ---------");
-        System.out.println("\n------- practice1Fibonacci() ---------");
-        practice1Fibonacci();
-        System.out.println("\n------- practice1Sort1() ---------");
-        practice1Sort1();
-        System.out.println("\n------- practice1Sort2() ---------");
-        practice1Sort2();
-        System.out.println("\n------- practice1Sort3() ---------");
-        practice1Sort3();
-        System.out.println("\n------- practice1Sort4() ---------");
-        practice1Sort4();
-        System.out.println("\n------- practice1Sort5() ---------");
-        practice1Sort5();
+//        System.out.println("HELLO man!");
+//
+//        System.out.println("\n------- typesDemo() ---------");
+//        typesDemo();
+//
+//        System.out.println("\n------- operationsDemo() ---------");
+//        operationsDemo();
+//
+//        System.out.println("\n------- controlStructuresDemo() ---------");
+//        controlStructuresDemo();
+//
+//        System.out.println("\n------- practice1() ---------");
+//        System.out.println("\n------- practice1Fibonacci() ---------");
+//        practice1Fibonacci();
+//        System.out.println("\n------- practice1Sort1() ---------");
+//        practice1Sort1();
+//        System.out.println("\n------- practice1Sort2() ---------");
+//        practice1Sort2();
+//        System.out.println("\n------- practice1Sort3() ---------");
+//        practice1Sort3();
+//        System.out.println("\n------- practice1Sort4() ---------");
+//        practice1Sort4();
+//        System.out.println("\n------- practice1Sort5() ---------");
+//        practice1Sort5();
 
         System.out.println("\n------- practice2() ---------");
+        // practice2 http://yuriytkach.blogspot.com/2012/06/java-practice-lesson-2.html
         System.out.println("\n------- practice2BinarySearch() ==---------");
         practice2BinarySearch();
     }
@@ -424,15 +425,29 @@ public class Hello {
         //ТАКЖЕ стоит написать тестирующую ф-цию:
         System.out.println("\n-----задание Binary Search = Поиск методом Золотого сечения:------");
         char[] arr = {'c','f','i','l','p','q','s','v','w','x','z'};
-        for (int elem : arr) System.out.print(elem + ", ");
+        for (int elem : arr) System.out.print((char)elem + ", ");
+        System.out.print("\n");
+
         String resultText;
         for(int i=0; i<arr.length; i++){
+          //Operations operations = new Operations();
           int res = Operations.findSymbolInCharArray(arr, arr[i]);
           if (res == i) {
               resultText = "good!";
           } else resultText = "ERROR!";
-          System.out.println("Test" + i + ", searching for '" + arr[i] + "' - resultText = " + resultText);
+          System.out.println("Test" + i + ", searching for '" + arr[i] + "' - resultText = " + resultText + "\n");
         }
+        int res = Operations.findSymbolInCharArray(arr, 'h');
+        if (res == -1) {
+            resultText = "(not found) good!";
+        } else resultText = "ERROR!";
+        System.out.println("Test" + " 'h' (not in the array)" + ", searching for 'h' - res = " + res + ", resultText = " + resultText + "\n");
+
+//------ while testing of very long arrays: -----------
+//        1) test first element
+//        2) test last element
+//        3) test 3-5 random elements
+//        4) test value(s) out of array elements
     }
 
 }

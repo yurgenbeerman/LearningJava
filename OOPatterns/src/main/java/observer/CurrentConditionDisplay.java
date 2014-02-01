@@ -9,7 +9,7 @@ public class CurrentConditionDisplay implements Observer, DisplayElement {
     private float pressure;
     private Subject weatherData;
 
-    public CurrentConditionDisplay(Subject weatherData) {
+    public CurrentConditionDisplay(WeatherData weatherData) {
         this.weatherData = weatherData;
         weatherData.registerObserver(this);
 

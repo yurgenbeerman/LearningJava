@@ -1,45 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fe835b3-1b71-47aa-bc63-330ff2950515" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/HeadFirstDesignPatterns_code102507.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/weather/CurrentConditionsDisplay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/weatherobservable/CurrentConditionsDisplay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/strategy/DecoyDuck.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/weather/DisplayElement.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/weatherobservable/DisplayElement.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/strategy/Duck.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/strategy/FakeQuack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/strategy/FlyBehavior.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/strategy/FlyNoWay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/strategy/FlyRocketPowered.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/strategy/FlyWithWings.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/weather/ForecastDisplay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/weatherobservable/ForecastDisplay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/weather/HeatIndexDisplay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/weatherobservable/HeatIndexDisplay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/strategy/MallardDuck.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/strategy/MiniDuckSimulator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/strategy/MiniDuckSimulator1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/strategy/ModelDuck.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/strategy/MuteQuack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/weather/Observer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/strategy/Quack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/strategy/QuackBehavior.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/strategy/RedHeadDuck.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/strategy/RubberDuck.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/strategy/Squeak.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/weather/StatisticsDisplay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/weatherobservable/StatisticsDisplay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/src/main/java/observer/StatisticsDisplay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/weather/Subject.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/swing/SwingObserverExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/weather/WeatherData.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/weatherobservable/WeatherData.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/weather/WeatherStation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/weatherobservable/WeatherStation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/weather/WeatherStationHeatIndex.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOPatterns/OOPatterns2_code_samples/src/headfirst/observer/weatherobservable/WeatherStationHeatIndex.java" />
+    <list default="true" id="9302385d-54b4-4764-b5fa-40d78a323b96" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/DealsProcessor/Deal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/DealsProcessor/DealsProcessor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/DealsProcessor/Party.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/DealsProcessor/Product.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOPatterns/src/main/java/observer/CurrentConditionDisplay.java" afterPath="$PROJECT_DIR$/../OOPatterns/src/main/java/observer/CurrentConditionDisplay.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOPatterns/src/main/java/observer/DisplayElement.java" afterPath="$PROJECT_DIR$/../OOPatterns/src/main/java/observer/DisplayElement.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOPatterns/src/main/java/observer/ForecastDisplay.java" afterPath="$PROJECT_DIR$/../OOPatterns/src/main/java/observer/ForecastDisplay.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/package1/Hello.java" afterPath="$PROJECT_DIR$/src/main/java/package1/Hello.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/package1/Operations.java" afterPath="$PROJECT_DIR$/src/main/java/package1/Operations.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOPatterns/src/main/java/observer/Subject.java" afterPath="$PROJECT_DIR$/../OOPatterns/src/main/java/observer/Subject.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOPatterns/src/main/java/observer/WeatherData.java" afterPath="$PROJECT_DIR$/../OOPatterns/src/main/java/observer/WeatherData.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOPatterns/src/main/java/observer/WeatherStation.java" afterPath="$PROJECT_DIR$/../OOPatterns/src/main/java/observer/WeatherStation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOPatterns/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOPatterns/.idea/workspace.xml" />
     </list>
@@ -105,11 +80,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="DealsProcessor.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DealsProcessor/DealsProcessor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="10" selection-start="446" selection-end="446" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="289">
+            <state line="5" column="13" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Deal.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DealsProcessor/Deal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="50" selection-start="446" selection-end="446" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -117,25 +103,25 @@
       <file leaf-file-name="Hello.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/package1/Hello.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="25" selection-start="1605" selection-end="1605" vertical-scroll-proportion="0.5973684" vertical-offset="555" max-vertical-offset="16269">
+            <state line="966" column="0" selection-start="32796" selection-end="32796" vertical-scroll-proportion="6.3088737" vertical-offset="12725" max-vertical-offset="16524">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <file leaf-file-name="Product.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DealsProcessor/Product.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="10540">
+            <state line="5" column="13" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Operations.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/package1/Operations.java">
+      <file leaf-file-name="Party.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DealsProcessor/Party.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="43" selection-start="1085" selection-end="1106" vertical-scroll-proportion="0.0" vertical-offset="98" max-vertical-offset="697">
+            <state line="5" column="13" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
               <folding />
             </state>
           </provider>
@@ -149,19 +135,12 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
-    <option name="PREVIOUS_COMMIT_AUTHORS">
-      <list>
-        <option value="yurgenbeerman" />
-      </list>
-    </option>
-    <option name="SYNC_SETTING" value="DONT" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/package1/Operations.java" />
-        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/DealsProcessor/Deal.java" />
         <option value="$PROJECT_DIR$/src/main/java/package1/Hello.java" />
       </list>
     </option>
@@ -172,7 +151,7 @@
     <option name="width" value="1382" />
     <option name="height" value="754" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -204,6 +183,14 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="JavaForTestersLessons" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; 1.7 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -274,68 +261,52 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaForTestersLessons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaForTesters" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DealsProcessor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="GoToClass.includeLibraries" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
-    <property name="GoToClass.includeLibraries" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="recentsLimit" value="5" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.lastSelected" value="vcs.Git" />
-    <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
-    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Hello">
-    <configuration default="false" name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="package1.Hello" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaForTestersLessons" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
       <option name="PROGRAM_PARAMETERS" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -420,89 +391,33 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
-      <module name="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <method />
-    </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Application.Hello" />
-    </list>
-    <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.Hello" />
-      </list>
-    </recent_temporary>
+    <list size="0" />
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
-    <option name="USER" value="" />
-    <option name="PASSWORD" value="" />
-    <option name="mySSHConnectionTimeout" value="30000" />
-    <option name="mySSHReadTimeout" value="30000" />
-    <option name="LAST_MERGED_REVISION" />
-    <option name="MERGE_DRY_RUN" value="false" />
-    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
-    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
-    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
-    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
-    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
-    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
-    <option name="FORCE_UPDATE" value="false" />
-    <option name="IGNORE_EXTERNALS" value="false" />
-    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2fe835b3-1b71-47aa-bc63-330ff2950515" name="Default" comment="" />
-      <created>1390657086847</created>
-      <updated>1390657086847</updated>
+      <changelist id="9302385d-54b4-4764-b5fa-40d78a323b96" name="Default" comment="" />
+      <created>1391263364844</created>
+      <updated>1391263364844</updated>
     </task>
-    <task id="LOCAL-00001" summary="18 all sort methods work now">
-      <created>1390687374135</created>
-      <updated>1390687374135</updated>
-    </task>
-    <task id="LOCAL-00002" summary="19 minor changes">
-      <created>1390687857629</created>
-      <updated>1390687857629</updated>
-    </task>
-    <task id="LOCAL-00003" summary="19' minor&#10;">
-      <created>1390688305255</created>
-      <updated>1390688305255</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3296" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -510,18 +425,17 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18504532" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2384" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USERS">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
       <collection />
     </option>
   </component>
@@ -532,120 +446,44 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="18 all sort methods work now" />
-    <MESSAGE value="19 minor changes" />
-    <MESSAGE value="19' minor&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="19' minor&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/DealsProcessor/Product.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="61" selection-start="446" selection-end="446" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+        <state line="5" column="13" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DealsProcessor/Party.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DealsProcessor/DealsProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DealsProcessor/Deal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="50" selection-start="446" selection-end="446" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/package1/Hello.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="89" selection-start="1605" selection-end="1605" vertical-scroll-proportion="0.0" vertical-offset="555" max-vertical-offset="16269">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10064">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/package1/Operations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="43" selection-start="1085" selection-end="1106" vertical-scroll-proportion="0.0" vertical-offset="98" max-vertical-offset="697">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="61" selection-start="446" selection-end="446" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/package1/Hello.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="89" selection-start="1605" selection-end="1605" vertical-scroll-proportion="0.0" vertical-offset="555" max-vertical-offset="16269">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9622">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/package1/Operations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="43" selection-start="1085" selection-end="1106" vertical-scroll-proportion="0.0" vertical-offset="98" max-vertical-offset="697">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="61" selection-start="446" selection-end="446" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="289">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/package1/Hello.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="215" column="80" selection-start="7447" selection-end="7447" vertical-scroll-proportion="0.0" vertical-offset="3366" max-vertical-offset="16252">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/package1/Operations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="43" selection-start="1085" selection-end="1106" vertical-scroll-proportion="0.0" vertical-offset="98" max-vertical-offset="697">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="10" selection-start="446" selection-end="446" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="289">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/package1/Operations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="43" selection-start="1085" selection-end="1106" vertical-scroll-proportion="0.0" vertical-offset="98" max-vertical-offset="697">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="10540">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/package1/Hello.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="25" selection-start="1605" selection-end="1605" vertical-scroll-proportion="0.5973684" vertical-offset="555" max-vertical-offset="16269">
+        <state line="966" column="0" selection-start="32796" selection-end="32796" vertical-scroll-proportion="6.3088737" vertical-offset="12725" max-vertical-offset="16524">
           <folding />
         </state>
       </provider>
