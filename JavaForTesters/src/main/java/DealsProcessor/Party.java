@@ -15,5 +15,9 @@ public class Party {
         this.name = name;
     }
 
+    public Party(String name) {
+        setName(name);
+    }
+
 
 }

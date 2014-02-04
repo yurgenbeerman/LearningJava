@@ -6,11 +6,21 @@ import java.util.*;
  */
 public class Deal {
     ////int quantityOfProduct;
-    private Date date;
+    private Date date = new Date(); // (1)works undependently of conctructor invoced (there may be diffferent constructors)
     private Party buyer;
     private Party seller;
     private Product[] products;
 
+    public Deal(
+            Party buyer,
+            Party seller,
+            Product[] pr
+            ){
+        this.buyer = buyer;
+        this.seller = seller;
+        this.products = pr;
+        //date = new Date(); // see (1)
+    }
     //if we can easily calculate, then it is better to use method getSumOfDeal
     //else it is better to use value dealSum;
     public double getSum() {
