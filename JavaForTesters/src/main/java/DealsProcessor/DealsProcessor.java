@@ -23,7 +23,7 @@ public class DealsProcessor {
     private int lastDealIndex = 0;
     private Product[] products;
 
-    private static String getFromKeyboard(String question) {
+    private static String inputFromKeyboard(String question) {
         //Taken from http://yuriytkach.blogspot.com/2012/07/java-practice-lesson-3.html
         //private String keyboard(String message) {
         System.out.print(question + ": ");
@@ -33,13 +33,13 @@ public class DealsProcessor {
         return rez;
     }
 
-    private static Product getProductFromKeyboard(){
+    private static Product inputProductFromKeyboard(){
         //double res=0;
-        String productTitle = getFromKeyboard("Enter product title");
-//        double productPrice = (double)getFromKeyboard("Product price? ");
-//        int productQuantity = (int)getFromKeyboard("Product quantity? ");
-        String productPrice = getFromKeyboard("Enter product price");
-        String productQuantity = getFromKeyboard("Enter product quantity");
+        String productTitle = inputFromKeyboard("Enter product title");
+//        double productPrice = (double)inputFromKeyboard("Product price? ");
+//        int productQuantity = (int)inputFromKeyboard("Product quantity? ");
+        String productPrice = inputFromKeyboard("Enter product price");
+        String productQuantity = inputFromKeyboard("Enter product quantity");
         Product pr = new Product();
         pr.setTitle(productTitle);
         pr.setPrice(Double.valueOf(productPrice));
@@ -47,30 +47,30 @@ public class DealsProcessor {
         return pr;
     }
 
-    private static Product[] getThreeProductsFromKeyboard() {
+    private static Product[] inputThreeProductsFromKeyboard() {
         System.out.println("\nPlease enter data on the yhree products of the Deal.");
         Product[] products = new Product[3];
         for (int i=0; i < 3; i++) {
-            products[i] =  getProductFromKeyboard();
+            products[i] =  inputProductFromKeyboard();
         }
         return products;
-        //pr.setQuantity(getFromKeyboard("How many of product " + pr.getTitle() + " is being sold?"));
+        //pr.setQuantity(inputFromKeyboard("How many of product " + pr.getTitle() + " is being sold?"));
     }
     private static Party inputParty(String partyType) {
-        String partyName = getFromKeyboard(partyType + " name? ");
+        String partyName = inputFromKeyboard("Please enter " + partyType + " name");
         Party party = new Party(partyName);
         return party;
     }
 
     public static Deal inputDeal() {
         //input all data:
-//        String buyerName = getFromKeyboard("buyer name? ");
-//        String sellerName = getFromKeyboard("seller name? ");
+//        String buyerName = inputFromKeyboard("buyer name? ");
+//        String sellerName = inputFromKeyboard("seller name? ");
 //        Party buyer = new Party(buyerName);
 //        Party seller = new Party(sellerName);
         Party buyer = inputParty("buyer");
         Party seller = inputParty("seller");
-        Product[] products = getThreeProductsFromKeyboard();
+        Product[] products = inputThreeProductsFromKeyboard();
 
         Deal deal = new Deal(buyer,seller,products);
         return deal;
