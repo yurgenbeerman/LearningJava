@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9302385d-54b4-4764-b5fa-40d78a323b96" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/DealsProcessor/DealsProcessor.java" afterPath="$PROJECT_DIR$/src/main/java/DealsProcessor/DealsProcessor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/DealsProcessor/Product.java" afterPath="$PROJECT_DIR$/src/main/java/DealsProcessor/Product.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOPatterns/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOPatterns/.idea/workspace.xml" />
     </list>
     <ignored path="JavaForTestersLessons.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -69,19 +67,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DealsProcessor.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="DealsProcessor.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/DealsProcessor/DealsProcessor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="109" column="35" selection-start="4109" selection-end="4109" vertical-scroll-proportion="1.091603" vertical-offset="1424" max-vertical-offset="2023">
+            <state line="60" column="27" selection-start="2460" selection-end="2460" vertical-scroll-proportion="0.0" vertical-offset="821" max-vertical-offset="2023">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Deal.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Deal.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/DealsProcessor/Deal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="8" selection-start="746" selection-end="898" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="884">
+            <state line="50" column="69" selection-start="1152" selection-end="1152" vertical-scroll-proportion="1.6721312" vertical-offset="0" max-vertical-offset="884">
               <folding />
             </state>
           </provider>
@@ -90,7 +88,7 @@
       <file leaf-file-name="Hello.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/package1/Hello.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="142" column="19" selection-start="4506" selection-end="4508" vertical-scroll-proportion="-4.5384617" vertical-offset="2296" max-vertical-offset="16524">
+            <state line="142" column="19" selection-start="4506" selection-end="4508" vertical-scroll-proportion="0.0" vertical-offset="2296" max-vertical-offset="16524">
               <folding />
             </state>
           </provider>
@@ -99,11 +97,8 @@
       <file leaf-file-name="Product.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/DealsProcessor/Product.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="33" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="629">
-              <folding>
-                <element signature="e#411#412#0" expanded="true" />
-                <element signature="e#439#440#0" expanded="true" />
-              </folding>
+            <state line="13" column="33" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="168" max-vertical-offset="595">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -111,7 +106,7 @@
       <file leaf-file-name="DealProcessorTests.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/DealsProcessor/DealProcessorTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="30" selection-start="429" selection-end="429" vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="459">
+            <state line="18" column="30" selection-start="429" selection-end="429" vertical-scroll-proportion="0.0" vertical-offset="32" max-vertical-offset="459">
               <folding />
             </state>
           </provider>
@@ -120,7 +115,7 @@
       <file leaf-file-name="Party.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/DealsProcessor/Party.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="22" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+            <state line="20" column="59" selection-start="330" selection-end="330" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
               <folding />
             </state>
           </provider>
@@ -129,10 +124,8 @@
       <file leaf-file-name="Operations.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/package1/Operations.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="17" selection-start="946" selection-end="947" vertical-scroll-proportion="-4.6923075" vertical-offset="371" max-vertical-offset="1632">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="29" column="17" selection-start="946" selection-end="947" vertical-scroll-proportion="0.0" vertical-offset="371" max-vertical-offset="1632">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -332,7 +325,13 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="JavaForTestersLessons" />
       <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -392,19 +391,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -430,6 +416,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -507,6 +506,11 @@
       <created>1391263364844</created>
       <updated>1391263364844</updated>
     </task>
+    <task id="LOCAL-00001" summary="DealsProcessor.class is compiled but  throws exception after first Buyer entered&#10;">
+      <created>1391666965020</created>
+      <updated>1391666965020</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -520,8 +524,8 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2752" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2752" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -531,10 +535,10 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19033232" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31042296" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31042296" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -550,6 +554,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="DealsProcessor.class is compiled but  throws exception after first Buyer entered&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="DealsProcessor.class is compiled but  throws exception after first Buyer entered&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -559,6 +565,55 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/DealsProcessor/DealsProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="109" column="35" selection-start="4109" selection-end="4109" vertical-scroll-proportion="0.0" vertical-offset="1853" max-vertical-offset="2023">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DealsProcessor/Deal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="8" selection-start="746" selection-end="898" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="1020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/package1/Hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="142" column="19" selection-start="4506" selection-end="4508" vertical-scroll-proportion="0.0" vertical-offset="2296" max-vertical-offset="16524">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DealsProcessor/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="33" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="799">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DealsProcessor/DealProcessorTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="30" selection-start="429" selection-end="429" vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="459">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DealsProcessor/Party.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="22" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="493">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/package1/Operations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="17" selection-start="946" selection-end="947" vertical-scroll-proportion="0.0" vertical-offset="371" max-vertical-offset="1632">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/DealsProcessor/DealsProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="29" selection-start="546" selection-end="546" vertical-scroll-proportion="0.0" vertical-offset="73" max-vertical-offset="765">
@@ -583,10 +638,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/DealsProcessor/Product.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="5" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="799">
-          <folding>
-            <element signature="e#411#412#0" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -607,62 +659,55 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/package1/Operations.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="23" selection-start="636" selection-end="636" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1632">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DealsProcessor/Party.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="22" selection-start="323" selection-end="323" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DealsProcessor/Deal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="8" selection-start="746" selection-end="898" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1020">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/package1/Hello.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="142" column="19" selection-start="4506" selection-end="4508" vertical-scroll-proportion="-4.5384617" vertical-offset="2296" max-vertical-offset="16524">
+        <state line="142" column="19" selection-start="4506" selection-end="4508" vertical-scroll-proportion="0.0" vertical-offset="2296" max-vertical-offset="16524">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/package1/Operations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="17" selection-start="946" selection-end="947" vertical-scroll-proportion="-4.6923075" vertical-offset="371" max-vertical-offset="1632">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DealsProcessor/DealProcessorTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="30" selection-start="429" selection-end="429" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+        <state line="29" column="17" selection-start="946" selection-end="947" vertical-scroll-proportion="0.0" vertical-offset="371" max-vertical-offset="1632">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/DealsProcessor/Product.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="33" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="629">
-          <folding>
-            <element signature="e#411#412#0" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-          </folding>
+        <state line="13" column="33" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="168" max-vertical-offset="595">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DealsProcessor/Party.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="59" selection-start="330" selection-end="330" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/DealsProcessor/DealsProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="109" column="35" selection-start="4109" selection-end="4109" vertical-scroll-proportion="1.091603" vertical-offset="1424" max-vertical-offset="2023">
+        <state line="60" column="27" selection-start="2460" selection-end="2460" vertical-scroll-proportion="0.0" vertical-offset="821" max-vertical-offset="2023">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DealsProcessor/DealProcessorTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="30" selection-start="429" selection-end="429" vertical-scroll-proportion="0.0" vertical-offset="32" max-vertical-offset="459">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DealsProcessor/Deal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="69" selection-start="1152" selection-end="1152" vertical-scroll-proportion="1.6721312" vertical-offset="0" max-vertical-offset="884">
           <folding />
         </state>
       </provider>
