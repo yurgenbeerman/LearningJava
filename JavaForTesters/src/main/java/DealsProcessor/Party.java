@@ -17,6 +17,7 @@ public class Party {
 
     public Party(String name) {
         setName(name);
+
     }
 
 
