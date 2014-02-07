@@ -6,16 +6,14 @@ package DealsProcessor;
 
 import java.util.*;
 
-
-//TODO
+//1:17:13
+//This class is called "Program" in the Practice 3 video (https://www.youtube.com/watch?v=dLVquhA3TQ8&list=SPD964614607573AFD&index=3)
+//DONE
 //    В качестве дополнительного задания, можно написать отдельные класс Keyboard,
 //    который будет содержать статические методы для ввода строки (String),
 //    целого числа (Integer) и дробного числа (Double).
 //    Методы по вводу чисел будет проверять, а число ли введено вообще,
 //    и выдавать сообщение об ошибке или требовать правильный ввод.
-
-//1:17:13
-//This class is called "Program" in the Practice 3 video (https://www.youtube.com/watch?v=dLVquhA3TQ8&list=SPD964614607573AFD&index=3)
 public class DealsProcessor {
     //constants
     private static final int MAXDEALS = 10;
@@ -47,12 +45,18 @@ public class DealsProcessor {
         return rez;
     }
 
-    //TODO make same as for double
     private static int inputIntFromKeyboard(String question) {
         System.out.print(question + ": ");
         Scanner scan = new Scanner(System.in);
         String rez = scan.next();
-        int intRez = Integer.valueOf(rez);
+        int intRez = 0;
+        try {
+            intRez = Integer.valueOf(rez);
+            //Integer.parseInt(string);
+        } catch (Exception e) {
+            System.out.println("\nERROR. That is not a number!");
+            intRez = inputIntFromKeyboard(question);
+        }
         return intRez;
     }
 
@@ -66,7 +70,7 @@ public class DealsProcessor {
             //Double.parseInt(string);
         } catch (Exception e) {
             System.out.println("\nERROR. That is not a number!");
-            inputDoubleFromKeyboard(question);
+            doubleRez = inputDoubleFromKeyboard(question);
         }
         return doubleRez;
     }
